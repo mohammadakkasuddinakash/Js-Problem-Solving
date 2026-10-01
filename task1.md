@@ -25,7 +25,6 @@ Print the amount of money the shopkeeper will return.
 ```text
 300
 ```
-
 ## Explanation
 
 You have **1000 taka**.
